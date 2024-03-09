@@ -23,4 +23,4 @@ Durning my creation of this webpage I have learned and sharpened many of my codi
 
 ## Links
 - [Watch the Walkthrough video](https://drive.google.com/file/d/1pkymTT8UC5LnpKU2ilPH1NUCLkeqH5QX/view)
-- https://github.com/baldwisj
+- https://github.com/baldwisj/e-commerce-app
